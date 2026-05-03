@@ -1,0 +1,227 @@
+[
+  {
+    "timestamp": "2026-04-08T20:05:12",
+    "transaction_id": 1,
+    "amount": 35.37,
+    "atm_location": "Hotel Lobby",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:12",
+    "transaction_id": 2,
+    "amount": 26.79,
+    "atm_location": "Train Station",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:13",
+    "transaction_id": 3,
+    "amount": 402.92,
+    "atm_location": "Train Station",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:13",
+    "transaction_id": 4,
+    "amount": 217.88,
+    "atm_location": "Airport Terminal",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:14",
+    "transaction_id": 5,
+    "amount": 416.09,
+    "atm_location": "Gas Station",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:14",
+    "transaction_id": 6,
+    "amount": 458.74,
+    "atm_location": "Shopping Mall",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:15",
+    "transaction_id": 7,
+    "amount": 90.74,
+    "atm_location": "Downtown Branch",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:15",
+    "transaction_id": 8,
+    "amount": 275.76,
+    "atm_location": "Hotel Lobby",
+    "fraud_probability": 1.0,
+    "risk_level": "HIGH",
+    "recommended_action": "\ud83d\udeab BLOCK TRANSACTION \u2014 Notify cardholder immediately"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:15",
+    "transaction_id": 9,
+    "amount": 116.25,
+    "atm_location": "Hospital",
+    "fraud_probability": 0.98,
+    "risk_level": "HIGH",
+    "recommended_action": "\ud83d\udeab BLOCK TRANSACTION \u2014 Notify cardholder immediately"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:16",
+    "transaction_id": 10,
+    "amount": 4819.15,
+    "atm_location": "Airport Terminal",
+    "fraud_probability": 1.0,
+    "risk_level": "HIGH",
+    "recommended_action": "\ud83d\udeab BLOCK TRANSACTION \u2014 Notify cardholder immediately"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:16",
+    "transaction_id": 11,
+    "amount": 952.64,
+    "atm_location": "Airport Terminal",
+    "fraud_probability": 0.995,
+    "risk_level": "HIGH",
+    "recommended_action": "\ud83d\udeab BLOCK TRANSACTION \u2014 Notify cardholder immediately"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:17",
+    "transaction_id": 12,
+    "amount": 166.01,
+    "atm_location": "Hospital",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:17",
+    "transaction_id": 13,
+    "amount": 328.75,
+    "atm_location": "Shopping Mall",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:18",
+    "transaction_id": 14,
+    "amount": 462.29,
+    "atm_location": "Shopping Mall",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:18",
+    "transaction_id": 15,
+    "amount": 472.62,
+    "atm_location": "Shopping Mall",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:18",
+    "transaction_id": 16,
+    "amount": 457.67,
+    "atm_location": "University Campus",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:19",
+    "transaction_id": 17,
+    "amount": 3600.47,
+    "atm_location": "Remote Village",
+    "fraud_probability": 1.0,
+    "risk_level": "HIGH",
+    "recommended_action": "\ud83d\udeab BLOCK TRANSACTION \u2014 Notify cardholder immediately"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:19",
+    "transaction_id": 18,
+    "amount": 466.5,
+    "atm_location": "Train Station",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:20",
+    "transaction_id": 19,
+    "amount": 428.27,
+    "atm_location": "Suburban Branch",
+    "fraud_probability": 0.995,
+    "risk_level": "HIGH",
+    "recommended_action": "\ud83d\udeab BLOCK TRANSACTION \u2014 Notify cardholder immediately"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:20",
+    "transaction_id": 20,
+    "amount": 287.27,
+    "atm_location": "University Campus",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:20",
+    "transaction_id": 21,
+    "amount": 41.06,
+    "atm_location": "Remote Village",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:21",
+    "transaction_id": 22,
+    "amount": 499.28,
+    "atm_location": "Remote Village",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:21",
+    "transaction_id": 23,
+    "amount": 218.55,
+    "atm_location": "Gas Station",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:22",
+    "transaction_id": 24,
+    "amount": 234.51,
+    "atm_location": "Downtown Branch",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  },
+  {
+    "timestamp": "2026-04-08T20:05:22",
+    "transaction_id": 25,
+    "amount": 498.42,
+    "atm_location": "Suburban Branch",
+    "fraud_probability": 0.0,
+    "risk_level": "OK",
+    "recommended_action": "\u2705 APPROVE \u2014 No suspicious activity detected"
+  }
+]
